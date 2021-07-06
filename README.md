@@ -1,4 +1,4 @@
-### PART 1: THE 2021 PUZZLE
+### THE 2021 PUZZLE
 
 Problem given to us is to obtain goal state from the given state using the pre-defined rotations like particular 
 row/column can rotate only in particular direction.
